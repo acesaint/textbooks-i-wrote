@@ -4,7 +4,7 @@
 
 **我写的教材 · 零基础每天 1 小时系列**
 
-*作者：假客气 和 不客气*
+*作者：大魔王博士*
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-blue.svg)](#)
@@ -61,7 +61,7 @@ textbooks-i-wrote/
 本仓库所有教材采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)（署名—非商业性使用—相同方式共享）许可：
 
 - ✅ 欢迎学习、分享、打印给朋友看
-- ✅ 转载请注明作者「假客气和不客气」
+- ✅ 转载请注明作者「大魔王博士」
 - ❌ 请勿用于商业售卖
 
 ---
@@ -70,6 +70,6 @@ textbooks-i-wrote/
 
 **如果这些教材对你有帮助，欢迎点个 ⭐ Star 鼓励一下**
 
-*—— 假客气 和 不客气*
+*—— 大魔王博士*
 
 </div>
